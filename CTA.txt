@@ -1,0 +1,1 @@
+es todo aquel elemento que permite al usuari conectarse con la aplicacion
